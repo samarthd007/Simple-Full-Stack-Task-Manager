@@ -3,6 +3,8 @@ this is a sample demonstartion project of Task Manager
 
 Enter coommand "npm init" Before starting to run the project
 
+Then enter "npm install" to install required node modules 
+
 create a file called .env in the main folder and include your own Mongo Database URL in the name of "MONGO_URI"
 
 start the project by command "npm start"
